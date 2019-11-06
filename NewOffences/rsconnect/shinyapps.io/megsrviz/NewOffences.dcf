@@ -1,0 +1,12 @@
+name: NewOffences
+title: NewOffences
+username:
+account: megsrviz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 930646
+bundleId: 2086016
+url: https://megsrviz.shinyapps.io/NewOffences/
+when: 1557921535.41554
+asMultiple: FALSE
+asStatic: FALSE

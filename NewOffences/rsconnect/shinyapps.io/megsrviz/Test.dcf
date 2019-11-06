@@ -1,0 +1,13 @@
+name: Test
+title: Test
+username:
+account: megsrviz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 931146
+bundleId: 2103820
+url: https://megsrviz.shinyapps.io/Test/
+when: 1558616183.22601
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: tempdir/states.dbf|tempdir/states.prj|tempdir/states.shp|tempdir/states.shx

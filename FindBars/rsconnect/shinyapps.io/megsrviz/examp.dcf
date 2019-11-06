@@ -1,0 +1,12 @@
+name: examp
+title: examp
+username:
+account: megsrviz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 931194
+bundleId: 2086144
+url: https://megsrviz.shinyapps.io/examp/
+when: 1557924712.03276
+asMultiple: FALSE
+asStatic: FALSE

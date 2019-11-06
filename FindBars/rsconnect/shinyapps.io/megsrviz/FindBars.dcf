@@ -1,0 +1,13 @@
+name: FindBars
+title: FindBars
+username:
+account: megsrviz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 894344
+bundleId: 2044425
+url: https://megsrviz.shinyapps.io/FindBars/
+when: 1556445591.36581
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Hosp_data.csv|Hosp_locs.csv|Hospital_Locations.csv
